@@ -11,15 +11,14 @@
 /**
 * Implements a factory for UTextAsset objects.
 */
+
 UCLASS(hidecategories = Object)
-class UTextAssetFactory : public UFactory
+class UTextAssetFactory
+	: public UFactory
 {
 	GENERATED_UCLASS_BODY()
 
 public:
 
-	//~ UFactory Interface
-
-	virtual UObject* FactoryCreateNew(UClass* InClass, UObject* InParent, FName InName, EObjectFlags Flags, UObject* Context, FFeedbackContext* Warn) override;
-	virtual bool ShouldShowInNewMenu() const override;
+	virtual UObject* FactoryCreateFile(UClass* InClass, UObject* InParent, FName InName, EObjectFlags Flags, const FString& Filename, const TCHAR* Parms, FFeedbackContext* Warn, bool& bOutOperationCanceled) override;
 };

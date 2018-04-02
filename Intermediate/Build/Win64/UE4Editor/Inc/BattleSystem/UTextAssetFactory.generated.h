@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BATTLESYSTEM_UTextAssetFactory_generated_h
 
-#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_RPC_WRAPPERS
-#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_RPC_WRAPPERS_NO_PURE_DECLS
-#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_INCLASS_NO_PURE_DECLS \
+#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_RPC_WRAPPERS
+#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_RPC_WRAPPERS_NO_PURE_DECLS
+#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUTextAssetFactory(); \
 	friend BATTLESYSTEM_API class UClass* Z_Construct_UClass_UTextAssetFactory(); \
@@ -25,7 +25,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_INCLASS \
+#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_INCLASS \
 private: \
 	static void StaticRegisterNativesUTextAssetFactory(); \
 	friend BATTLESYSTEM_API class UClass* Z_Construct_UClass_UTextAssetFactory(); \
@@ -35,7 +35,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_STANDARD_CONSTRUCTORS \
+#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UTextAssetFactory(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UTextAssetFactory) \
@@ -48,7 +48,7 @@ private: \
 public:
 
 
-#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_ENHANCED_CONSTRUCTORS \
+#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UTextAssetFactory(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -61,26 +61,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UTextAssetFactory); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UTextAssetFactory)
 
 
-#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_PRIVATE_PROPERTY_OFFSET
-#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_14_PROLOG
-#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_GENERATED_BODY_LEGACY \
+#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_PRIVATE_PROPERTY_OFFSET
+#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_15_PROLOG
+#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_PRIVATE_PROPERTY_OFFSET \
-	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_RPC_WRAPPERS \
-	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_INCLASS \
-	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_STANDARD_CONSTRUCTORS \
+	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_PRIVATE_PROPERTY_OFFSET \
+	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_RPC_WRAPPERS \
+	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_INCLASS \
+	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_GENERATED_BODY \
+#define BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_PRIVATE_PROPERTY_OFFSET \
-	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_RPC_WRAPPERS_NO_PURE_DECLS \
-	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_INCLASS_NO_PURE_DECLS \
-	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_17_ENHANCED_CONSTRUCTORS \
+	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_PRIVATE_PROPERTY_OFFSET \
+	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_RPC_WRAPPERS_NO_PURE_DECLS \
+	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_INCLASS_NO_PURE_DECLS \
+	BattleSystem_Source_BattleSystem_Public_UTextAssetFactory_h_19_ENHANCED_CONSTRUCTORS \
 static_assert(false, "Unknown access specifier for GENERATED_BODY() macro in class TextAssetFactory."); \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
