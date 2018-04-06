@@ -33,8 +33,8 @@ void EmptyLinkFunctionForGeneratedCodeBasePlugin_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/BasePlugin",
 				PKG_CompiledIn | 0x00000080,
-				0x4EA138C2,
-				0x6EA6A0D8,
+				0xC812985D,
+				0x212F9664,
 				SingletonFuncArray, ARRAY_COUNT(SingletonFuncArray),
 				METADATA_PARAMS(nullptr, 0)
 			};

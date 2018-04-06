@@ -364,9 +364,9 @@
 /I D:\UnrealEngineFiles\UE_4.19\Engine\Source\Runtime\AudioMixer\Public\DSP
 /I D:\UnrealEngineFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer
 /I D:\UnrealEngineFiles\UE_4.19\Engine\Source\Runtime\AudioMixer
-/FI"D:\UnrealEngineFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
-/Yu"D:\UnrealEngineFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
-/Fp"D:\UnrealEngineFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
+/FI"D:\UnrealEngineFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
+/Yu"D:\UnrealEngineFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h"
+/Fp"D:\UnrealEngineFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.pch"
 "C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Intermediate\Build\Win64\UE4Editor\Development\BasePlugin\Module.BasePlugin.cpp"
 /FI"C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Intermediate\Build\Win64\UE4Editor\Development\BasePlugin\Definitions.BasePlugin.h"
 /Fo"C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Intermediate\Build\Win64\UE4Editor\Development\BasePlugin\Module.BasePlugin.cpp.obj"

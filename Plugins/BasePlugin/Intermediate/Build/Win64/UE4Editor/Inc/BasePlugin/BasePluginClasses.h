@@ -8,8 +8,10 @@
 
 
 #include "Classes/BattleComponent.h"
+#include "Classes/EffectFactory.h"
 #include "Classes/Effect.h"
 #include "Classes/CommonEffect.h"
 #include "Classes/ScaledEffect.h"
+#include "Classes/SkillFactory.h"
 #include "Classes/SkillLogic.h"
 

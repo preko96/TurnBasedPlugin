@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BasePlugin-9.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealEngineFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Intermediate\Build\Win64\UE4Editor\Development\BasePlugin\Module.BasePlugin.cpp.obj"
+"C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Intermediate\Build\Win64\UE4Editor\Development\BasePlugin\SkillFactory.cpp.obj"
+"C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Intermediate\Build\Win64\UE4Editor\Development\BasePlugin\Module.BasePlugin.gen.cpp.obj"
+"D:\UnrealEngineFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\BasePlugin\PCLaunch.rc.res"
+"D:\UnrealEngineFiles\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BasePlugin-9.lib"
