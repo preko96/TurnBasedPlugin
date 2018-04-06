@@ -1,3 +1,0 @@
-D:\Unreal Engine Projects\BattleSystem\Source\BattleSystem\BattleSystem.Build.cs
-D:\Unreal Engine Projects\BattleSystem\Source\BattleSystem.Target.cs
-D:\Unreal Engine Projects\BattleSystem\Source\BattleSystemEditor.Target.cs
