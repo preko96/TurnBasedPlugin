@@ -3,5 +3,7 @@
 #include "C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Source\BasePlugin\Private\BattleComponent.cpp"
 #include "C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Source\BasePlugin\Private\CommonEffect.cpp"
 #include "C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Source\BasePlugin\Private\Effect.cpp"
+#include "C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Source\BasePlugin\Private\EffectFactory.cpp"
 #include "C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Source\BasePlugin\Private\ScaledEffect.cpp"
+#include "C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Source\BasePlugin\Private\SkillFactory.cpp"
 #include "C:\Users\Pr3k0\Desktop\TurnBasedPlugin-master\TurnBasedPlugin-master\Plugins\BasePlugin\Source\BasePlugin\Private\SkillLogic.cpp"
